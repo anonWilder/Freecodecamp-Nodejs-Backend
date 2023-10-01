@@ -4,6 +4,7 @@
 	"description": "This is my first official nodejs course on freecodecamp",
 	"keywords": ["freecodecamp", "nodejs", "backend", "github", "railwayapp"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
